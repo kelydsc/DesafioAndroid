@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_remember">18sp</dimen>
+    <dimen name="nome_restaurante_home">22sp</dimen>
+    <dimen name="endereco_restaurante_home">16sp</dimen>
+</resources>

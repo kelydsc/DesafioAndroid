@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Digital House Foods</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember-me</string>
+    <string name="or">OR</string>
+    <string name="log_in">LOG IN</string>
+    <string name="login_with_facebook">LOGIN WITH FACEBOOK</string>
+    <string name="register">REGISTER</string>
+    <string name="name_register">Name</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="menu_profile">Profile</string>
+    <string name="save_profile">SAVE PROFILE</string>
+    <string name="nome_do_restaurante">Nome do restaurante</string>
+    <string name="endereco_restaurante">Endereço Restaurante</string>
+    <string name="horario_do_restaurante">Horário do Restaurante</string>
+    <string name="descricao_restaurante">Descricao Restaurante</string>
+    <string name="pratos_principais">Pratos principais</string>
+    <string name="nome_do_prato">Nome do prato</string>
+</resources>

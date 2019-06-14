@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimaryDesafio">#3F51B5</color>
+    <color name="colorPrimaryDarkDesafio">#303F9F</color>
+    <color name="botao_log_in">#FF5252</color>
+    <color name="texto_botao_login">#ffffff</color>
+    <color name="botao_register">#8492A6</color>
+    <color name="botao_facebook">#577AC2</color>
+    <color name="texto_remember">#47525E</color>
+    <color name="botao_checkbox">#FF5353</color>
+    <color name="linha_view">#C0CCDA</color>
+    <color name="texto_login">#3F51B5</color>
+    <color name="nome_restaurante">#1F2D3D</color>
+    <color name="endereco_restaurante">#8492A6</color>
+    <color name="titulo_pratos">#5A6978</color>
+    <color name="fundo_home">#DDDDDD</color>
+</resources>
